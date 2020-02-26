@@ -1,7 +1,7 @@
 # Student-Attendance-System-NCKH
 ## Điểm danh sinh viên HUMG
 ### Cài đặt:
-B1. Download project/n
+B1. Download project
 
 B2. Tạo folder "NCKH" trong htdocs(Xampp)
 
